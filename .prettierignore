@@ -1,0 +1,6 @@
+# which files should ignore prettier rules.
+/.vscode
+/node_modules
+*.env
+.env
+.env.*
